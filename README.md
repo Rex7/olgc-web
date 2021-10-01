@@ -1,2 +1,2 @@
 # olgc-web
-school website
+A simple website for school with basic features
